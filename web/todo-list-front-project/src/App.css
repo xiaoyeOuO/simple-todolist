@@ -1,0 +1,6 @@
+.todolist-item{
+  display: flex;
+  width: 400px;
+  justify-content: space-between;
+  align-content: center;
+}
